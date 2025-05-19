@@ -9,8 +9,4 @@ The algorithm uses Laplacian pyramids to evaluate which HS image within a set of
 
 # Main file
 
-The mail file is called dp.m, The user can input the desired path to a set of HS images. Depending on the size a number of spectral channels of the HS image, the time required to process the image can vary. One spectral channels takes about a second to process. One full scale HS image can take up to 30 minutes to process.
-
-# Room for improvement
-
-Robust registration of HS images.
+The mail file is called main.m, The user can input the desired path to a set of HS images. Depending on the size a number of spectral channels of the HS image, the time required to process the image can vary. One spectral channels takes about half a second to process. One full scale HS image can take minutes to process.
